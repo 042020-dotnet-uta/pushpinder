@@ -1,0 +1,18 @@
+Module 1 : Working with SQL Server Tools 
+Module 2 : Introduction to T-SQL Querying
+Module 3 : Writing Basic SELECT Statements
+Module 4 : Querying Multiple Tables 
+Module 5 : Sorting and Filtering Data 
+Module 6 : Working with SQL Server 2016 Data Types 
+Module 7 : Using DML to Modify Data 
+Module 8 : Using Built-in Functions 
+Module 9 : Grouping and Aggregating Data
+Module 10 : Using Subqueries
+Module 11 : Using Table Expressions
+Module 12 : Using Set Operators
+Module 13 : Using Window Ranking, Offset, and Aggregate Functions 
+Module 14 : Pivoting and Grouping Sets 
+Module 15 : Executing Stored Procedures
+Module 16 : Programming with T-SQL
+Module 17 : Implementing Error Handling 
+Module 18 : Implementing Transactions 
